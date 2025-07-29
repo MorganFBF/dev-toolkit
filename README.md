@@ -5,11 +5,13 @@ A growing collection of handy tools for developers. Written in Python, simple to
 
 ## 🚀 Tools Included
 
-- **Password Generator** – Generate secure random passwords
-- **(Coming Soon)** URL Shortener
-- **(Coming Soon)** JSON Prettifier
+- **Password Generator** – generate secure random passwords
+- **(URL shortener)** - converting long URL to short format
+- **(JSON Prettifier)** - format JSON input from a file or standard input
 
 ## 🔍 How to Use
 
 ```bash
 python generate-password.py
+python url-shortener.py
+python json-prettifier.py
